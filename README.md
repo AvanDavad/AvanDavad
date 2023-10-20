@@ -13,4 +13,6 @@ I'm a physicist with a degree from BME, Budapest. Currently, I'm channeling my p
 
 Looking forward to collaborating and learning together!
 
-📫 How to reach me: Reach out via email. (avandavad@gmail.com)
+📫 How to reach me
+    email (avandavad@gmail.com)
+    LinkedIn (linkedin.com/in/dávid-iván-231691169)
